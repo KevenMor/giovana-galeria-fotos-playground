@@ -1,0 +1,16 @@
+{
+  "ok": true,
+  "instrucao": "Cole photos_markdown EXATO na resposta ao cliente, sem alterar a URL.",
+  "chale": {
+    "room_type_id": 6,
+    "photos_markdown": "![Chale](https://www.plurax.com.br/web/image/hotel.room.image/10/image_1920)"
+  },
+  "master": {
+    "room_type_id": 5,
+    "photos_markdown": "![Master](https://www.plurax.com.br/web/image/hotel.room.image/9/image_1920)"
+  },
+  "loft": {
+    "room_type_id": 7,
+    "photos_markdown": "![Loft](https://www.plurax.com.br/web/image/hotel.room.image/11/image_1920)"
+  }
+}
